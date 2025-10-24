@@ -1,0 +1,11 @@
+../drivers/Src/stm32c031xx_gpio_driver.c:28:6:GPIO_PeriClkCtrl	12
+../drivers/Src/stm32c031xx_gpio_driver.c:81:6:GPIO_Init	12
+../drivers/Src/stm32c031xx_gpio_driver.c:180:6:GPIO_DeInit	6
+../drivers/Src/stm32c031xx_gpio_driver.c:215:9:GPIO_ReadFromIpPin	1
+../drivers/Src/stm32c031xx_gpio_driver.c:235:10:GPIO_ReadFromIpPort	1
+../drivers/Src/stm32c031xx_gpio_driver.c:256:6:GPIO_WriteToOpPin	2
+../drivers/Src/stm32c031xx_gpio_driver.c:278:6:GPIO_WriteToOpPort	1
+../drivers/Src/stm32c031xx_gpio_driver.c:296:6:GPIO_ToggleOpPin	1
+../drivers/Src/stm32c031xx_gpio_driver.c:315:6:GPIO_IRQConfig	2
+../drivers/Src/stm32c031xx_gpio_driver.c:341:6:GPIO_IRQPriorityHandling	1
+../drivers/Src/stm32c031xx_gpio_driver.c:361:6:GPIO_IRQHandling	3
